@@ -1,5 +1,5 @@
 package modul62;
 
-public class Text {
+public class Text extends File{
 
 }

@@ -1,5 +1,5 @@
 package modul62;
 
-public class Video {
+public class Video extends File {
 
 }

@@ -1,5 +1,5 @@
 package modul62;
 
-public class Audio {
+public class Audio extends File {
 
 }
