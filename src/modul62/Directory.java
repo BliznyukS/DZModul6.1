@@ -1,5 +1,5 @@
 package modul62;
 
-public class Directory {
+public class Directory extends File{
 
 }
