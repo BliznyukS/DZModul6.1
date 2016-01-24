@@ -8,6 +8,7 @@ public class Bouquet {
     private List<Flower> flowers = new ArrayList<Flower>();
 
     public double getPrice() {
+
         return price;
     }
 
