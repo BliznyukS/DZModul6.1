@@ -2,16 +2,15 @@ package modul62;
 
 public class Directory extends File {
 
-    File[] fileArray;
+
+    File[] fileArray = {};
 
     public Directory(File[] myArray) {
         fileArray = myArray;
     }
 
     public Directory() {
-
-        File[] fileArray = new File[0];
-
+        fileArray = new File[0];
     }
 
     public void print() {
