@@ -11,4 +11,10 @@ public class Directory extends File {
     public Directory() {
 
     }
+
+    public File[] print() {
+    for (int i = 0; i < fileArray.length; i++)
+        System.out.println(fileArray);
+
+    }
 }
