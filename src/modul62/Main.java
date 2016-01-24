@@ -7,8 +7,6 @@ public class Main {
 
         Directory newDirectory = new Directory(fileInDirectory);
         newDirectory.print();
-
-
     }
 
 }
