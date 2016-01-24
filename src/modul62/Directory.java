@@ -8,7 +8,7 @@ public class Directory extends File {
         fileArray = myArray;
     }
 
-    public Directory(){
+    public Directory() {
 
     }
 }
