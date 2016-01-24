@@ -10,6 +10,8 @@ public class Directory extends File {
 
     public Directory() {
 
+        File[] fileArray = new File[0];
+
     }
 
     public void print() {
